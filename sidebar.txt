@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zpa:home|Door43 (zpa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zpa|d43-zpa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zpa/archive/master.zip|d43-zpa.zip]]
+
+**Recent Changes**
+{{changes>ns = zpa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zpa|Ethnologue data]]
+
